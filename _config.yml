@@ -48,10 +48,10 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   zhihu: goldstine
-  email: 15797899690@163.com
+  email: Ma13463304696718@163.com
   facebook:
   flickr:
-  github: goldstine 
+  github: halfgu
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -71,10 +71,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 062eeb9a0adf39976274
-  clientSecret: 3c319e4cf4a90b70809d7fd1b25e4c6c10376a10
-  repo: goldstine.github.io
-  owner: goldstine
+  clientID: <你的clientID>
+  clientSecret: <你的clientSecret>
+  repo: <你的repository名称>
+  owner: <你的GitHub用户名>
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
